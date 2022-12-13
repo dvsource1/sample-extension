@@ -1,0 +1,11 @@
+{
+  "name": "Sample Extenstion",
+  "version": "1.0.0",
+  "description": "This is a Sample Extenstion",
+  "manifest_version": 3,
+  "author": "dvsource",
+  "action": {
+    "default_popup": "index.html",
+    "default_title": "Sample Extenstion"
+  }
+}
