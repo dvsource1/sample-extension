@@ -4,6 +4,7 @@
   "description": "This is a Sample Extenstion",
   "manifest_version": 3,
   "author": "dvsource",
+  "permissions": ["tabs"],
   "action": {
     "default_popup": "index.html",
     "default_title": "Sample Extenstion"
